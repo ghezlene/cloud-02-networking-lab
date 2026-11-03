@@ -1,3 +1,4 @@
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
 # Computer Networking Lab
 
 > Understand how computers communicate, from IP addressing to DNS, routing, and sockets.
@@ -55,3 +56,5 @@ This project explores the mechanisms behind that communication, starting with ba
 - [ ] Inspect network traffic.
 - [ ] Diagnose common connectivity problems.
 - [ ] Build basic Python networking tools.
+
+[← Back to Cloud Engineering Lab](https://github.com/ghezlene/cloud-engineering-lab)
